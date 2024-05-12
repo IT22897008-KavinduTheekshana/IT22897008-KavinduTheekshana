@@ -28,7 +28,7 @@
 <a href="https://fb.com/kavindu theekshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavindu theekshana" height="30" width="40" /></a>
 </p>
 
-| ![Kavindu's github stats](https://github-readme-stats.vercel.app/api?username=IT22897008-KavinduTheekshana&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| ![Kavindu's github stats](https://github-readme-stats.vercel.app/api?username=IT22897008-KavinduTheekshana&show_icons=true&theme=tokyonight) | ![Kavindu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IT22897008-KavinduTheekshana&theme=tokyonight) |
 | --- | --- |
 
 <h3 align="left">Languages and Tools:</h3>

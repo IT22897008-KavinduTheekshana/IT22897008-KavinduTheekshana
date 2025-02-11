@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **kavindutheekshana2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DPCuCVs3JbXLS2vrvn0sIoYNirH5MShu/view?usp=drive_link](https://drive.google.com/file/d/1DPCuCVs3JbXLS2vrvn0sIoYNirH5MShu/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1IAXLX7y826C_cR5IcyqyiHCkRwuYne3V/view?usp=drive_link)
 
 
 <h3 align="left">Connect with me:</h3>

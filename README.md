@@ -11,11 +11,11 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **co-working spaces**
+- 🔭 I’m currently working on **Travalia website**
 
-- 🌱 I’m currently learning **java,python**
+- 🌱 I’m currently learning **REACT,NEXT JS**
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **REACT**
 
 - 📫 How to reach me **kavindutheekshana2000@gmail.com**
 
